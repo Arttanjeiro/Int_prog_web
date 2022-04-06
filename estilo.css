@@ -1,0 +1,45 @@
+body{
+    background-color: rgba(0, 0, 0, 0.906);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(fundo.jpg);
+}
+header img{
+    border-radius: 100px;
+    border: 5px solid red;
+    width: 100px;
+    height: 100px;
+}
+
+header p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 0, 128);
+}
+header h1{
+    color: gold ;
+}
+
+
+h2{
+    color: darkorchid;
+}
+.container{
+    padding: 0px 50px;
+}
+section ul :hover {
+    color: red;
+   
+}
+ul {
+    list-style-type: none;
+}
+   
+
+section a{
+    color: black;
+    text-decoration: none;
+}
+footer {
+    text-align: center;
+    color: red;
+}
