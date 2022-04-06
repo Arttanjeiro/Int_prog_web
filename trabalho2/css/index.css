@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(48, 225, 166);
+    background-image: url(fundo2.jpg);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+img{
+    height: 200px;
+    width: 350px;
+}
+.titulo{ 
+    color: gold;
+    font-family:monospace;
+}
+h3{
+    color: rgb(26, 43, 233);
+}
+.principal a{
+        text-decoration: none;
+        color: red;
+
+}
+.principal p{
+    color: indigo;
+}
+.principal{
+    text-align: center;
+}
+.principal a:hover{
+    color: blue;
+}
+ .menu a {
+    color: rgb(223, 42, 73);
+    text-decoration: none;
+}
+ nav :hover {
+    color: rgb(194, 151, 59);
+}
+#chocolate{
+    background-color: rgb(51, 153, 117);
+}
+#lasanha{
+    background-color: rgb(220, 176, 176);
+}
+#pudim{
+    background-color: goldenrod;
+
+}
+.tudo{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+  
+}
+.lista{
+    color: white;
+}
+.lista strong{
+    color: black;
+}
+.pre{
+    color: white;
+}
+.pre strong {
+    color: black;
+}
+main h3{
+    color: rgb(0, 30, 255);
+}
+.outro{
+    text-align:right;
+    
+}
+.outro h4{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(20, 75, 255, 0.861);
+}
+#bolo{
+    color: rgb(248, 10, 10);
+}
+#lcm{
+    color: rgb(243, 255, 80);
+}
+#adicio{
+    color: red;
+}
+#adicio strong{
+    color: black;
+}
+#adicio h3{
+    color: crimson;
+}
