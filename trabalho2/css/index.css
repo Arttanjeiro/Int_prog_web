@@ -8,12 +8,22 @@ body{
 img{
     height: 200px;
     width: 350px;
-   
+  
 
 }
+.img :hover{
+    box-shadow: 10px 12px 14px black;
+   
+}
 .titulo{ 
-    color: gold;
+    margin: 0px 5px;
+    padding: 0px 5px;
+   
+    color: rgb(255, 72, 0);
+    font-size: 50px;
     font-family:monospace;
+    text-align: center;
+   
  
 }
 h3{
@@ -28,7 +38,9 @@ h3{
     color: indigo;
 }
 .principal{
+    clear: both;
     text-align: center;
+   
 }
 .principal a:hover{
     color: blue;
@@ -60,6 +72,7 @@ h3{
 }
 .lista strong{
     color: black;
+    
 }
 .pre{
     color: white;
@@ -71,9 +84,22 @@ main h3{
     color: rgb(0, 30, 255);
 }
 .outro{
-    text-align:right;
+    
+    float: right;
+   padding-right: 5px;
+   margin: 25px;
+    border: solid 1px black;
+
     
 }
+.junto{
+ 
+    box-shadow: 1px 2px 15px yellow;
+    border-radius: 30px;
+   
+}
+    
+
 .outro h4{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: rgba(20, 75, 255, 0.861);
@@ -92,4 +118,12 @@ main h3{
 }
 #adicio h3{
     color: crimson;
+}
+div{
+    margin: 100px;
+    padding: 0px 5px;
+}
+.bolo2{
+    box-shadow: 1px 2px 15px red;
+    border-radius: 18px;
 }
