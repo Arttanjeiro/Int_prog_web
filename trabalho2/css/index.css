@@ -20,11 +20,14 @@ img{
     padding: 0px 5px;
    
     color: rgb(255, 72, 0);
-    font-size: 30px;
+  
     font-family:monospace;
     text-align: center;
    
  
+}
+h1{
+    font-size: 34px;
 }
 h3{
     color: rgb(26, 43, 233);
@@ -86,9 +89,9 @@ main h3{
 .outro{
     
     float: right;
-   padding-right: 5px;
-   margin: 25px;
-    border: solid 1px black;
+  
+    padding: 0px 50px;
+ 
 
     
 }
@@ -120,8 +123,8 @@ main h3{
     color: crimson;
 }
 div{
-    margin: 4%;
-    padding:1%;
+  
+    padding: 0px 50px;
 }
 .bolo2{
     box-shadow: 1px 2px 15px red;
