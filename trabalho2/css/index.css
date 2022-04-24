@@ -3,16 +3,18 @@ body{
     background-image: url(fundo2.jpg);
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+  
 }
 img{
     height: 200px;
     width: 350px;
+   
 
 }
 .titulo{ 
     color: gold;
     font-family:monospace;
+ 
 }
 h3{
     color: rgb(26, 43, 233);
