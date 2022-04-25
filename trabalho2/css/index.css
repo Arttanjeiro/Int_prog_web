@@ -86,7 +86,7 @@ h3{
 main h3{
     color: rgb(0, 30, 255);
 }
-.outro{
+#outro{
     
     float: right;
   
@@ -130,3 +130,19 @@ div{
     box-shadow: 1px 2px 15px red;
     border-radius: 18px;
 }
+#lasanha{
+    float: right;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    padding: 0px 50px;
+    display: inline;
+    color: rgb(251, 14, 14);
+  
+
+}
+.fotolasanha{
+    border-radius: 50px;
+    box-shadow: 1px 1px 14px red;
+}
+
+    
