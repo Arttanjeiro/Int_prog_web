@@ -37,12 +37,13 @@ h3{
         color: red;
 
 }
-.principal p{
-    color: indigo;
-}
+
 .principal{
     clear: both;
     text-align: center;
+    color: indigo;
+    
+    
    
 }
 .principal a:hover{
@@ -51,19 +52,26 @@ h3{
  .menu a {
     color: rgb(223, 42, 73);
     text-decoration: none;
+    margin: 0px 10px;
+    padding: 0px 10px;
 }
  nav :hover {
     color: rgb(194, 151, 59);
 }
 #chocolate{
     background-color: rgb(51, 153, 117);
+    margin-bottom: 5%;
+    margin-top: 5%;
 }
 #lasanha{
     background-color: rgb(220, 176, 176);
+    margin-bottom: 5%;
+    margin-top: 5%;
 }
 #pudim{
     background-color: goldenrod;
-
+    margin-bottom: 5%;
+    margin-top: 5%;
 }
 .tudo{
     font-family: Arial, Helvetica, sans-serif;
@@ -89,11 +97,18 @@ main h3{
 #outro{
     
     float: right;
-  
+    margin-bottom: 5%;
+    margin-top: 5%;
     padding: 0px 50px;
-
+    display: inline;
+    color: rgb(73, 14, 251);
 
     
+}
+.fotobolo{
+    border-radius: 50px;
+    box-shadow: 1px 8px 9px red
+
 }
 .junto{
  
@@ -103,10 +118,7 @@ main h3{
 }
     
 
-.outro h4{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: rgba(20, 75, 255, 0.861);
-}
+
 #bolo{
     color: rgb(248, 10, 10);
 }
@@ -130,10 +142,10 @@ div{
     box-shadow: 1px 2px 15px red;
     border-radius: 18px;
 }
-#lasanha{
+#lasanha2{
     float: right;
-    margin-bottom: 10%;
-    margin-top: 10%;
+    margin-bottom: 5%;
+    margin-top: 5%;
     padding: 0px 50px;
     display: inline;
     color: rgb(251, 14, 14);
@@ -142,7 +154,27 @@ div{
 }
 .fotolasanha{
     border-radius: 50px;
-    box-shadow: 1px 1px 14px red;
+    box-shadow: 1px 8px 9px red;
 }
+#pudim2{
+    float: right;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    padding: 0px 50px;
+    
+    color: rgb(14, 251, 125);
+}
+.fotopudim{
+    border-radius: 50px;
+    box-shadow: 1px 8px 9px red;
+}
+#frente{
+    margin: 5%;
+    padding: 5%;
 
+}
+.fotos{
+    border-radius: 50px;
+    box-shadow:1px 8px 9px red ;
+}
     
