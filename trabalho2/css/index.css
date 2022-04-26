@@ -41,8 +41,8 @@ h3{
 .principal{
     clear: both;
     text-align: center;
-    color: indigo;
-    float: left;
+    color: indigo ;
+    
     
     
    
@@ -103,7 +103,7 @@ main h3{
     padding: 0px 50px;
     display: inline;
     color: rgb(73, 14, 251);
-
+    margin-left: 2%;
     
 }
 .fotobolo{
