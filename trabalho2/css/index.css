@@ -144,11 +144,11 @@ main h3{
     border-radius: 18px;
 }
 #lasanha2{
-    float: right;
+    float:right;
     margin-bottom: 5%;
     margin-top: 5%;
     padding: 0px 50px;
-    padding-left: 10%;
+    margin-left: 25%;
     color: rgb(251, 14, 14);
   
 
@@ -156,6 +156,8 @@ main h3{
 .fotolasanha{
     border-radius: 50px;
     box-shadow: 1px 8px 9px red;
+   
+   
 }
 #pudim2{
     float: right;
