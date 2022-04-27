@@ -1,7 +1,6 @@
 body{
     background-color: rgb(48, 225, 166);
-    background-image: url(fundo2.jpg);
-    color: white;
+    color: rgb(193, 108, 108);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   
 }
@@ -147,8 +146,8 @@ main h3{
     float:right;
     margin-bottom: 5%;
     margin-top: 5%;
-    padding: 0px 50px 0px 50px;
-    
+    padding: 0px 50px ;
+    margin-left: 10%;
     color: rgb(251, 14, 14);
     
   
