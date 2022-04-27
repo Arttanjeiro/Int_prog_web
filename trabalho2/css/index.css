@@ -87,34 +87,20 @@ h3{
 main h3{
     color: rgb(0, 30, 255);
 }
-#outro{
-    
-    float: right;
-    margin-bottom: 5%;
-    margin-top: 5%;
-    padding: 0px 50px;
-    display: inline;
-    color: rgb(73, 14, 251);
-   
-    
-}
+
 .fotobolo{
     margin-bottom:5% ;
     border-radius: 50px;
     box-shadow: 1px 8px 9px red
    
 }
-.junto{
-  
-    box-shadow: 1px 2px 15px rgb(255, 255, 0);
-    border-radius: 30px;
-   
-}
+
     
 
 
 #bolo{
     color: rgb(248, 10, 10);
+    
 }
 #lcm{
     color: rgb(243, 255, 80);
@@ -133,17 +119,10 @@ main h3{
     padding: 0px 49px;
 }
 
-#lasanha2{
-    float:right;
-    margin-bottom: 5%;
-    margin-top: 5%;
-    padding: 0px 50px ;
-    margin-left: 100%;
-    color: rgb(251, 14, 14);
-    
+
   
 
-}
+
 .fotolasanha{
     margin-bottom: 5%;
     border-radius: 50px;
@@ -151,14 +130,8 @@ main h3{
    
    
 }
-#pudim2{
-    float: right;
-    margin-bottom: 5%;
-    margin-top: 5%;
-    padding: 0px 50px;
-    
-    color: rgb(14, 251, 125);
-}
+
+
 .fotopudim{
     margin-bottom: 5%;
     border-radius: 50px;
@@ -174,7 +147,3 @@ main h3{
     box-shadow:1px 8px 9px red ;
 }
 
-h4 {
-    
-   margin-left: 15%;
-}
