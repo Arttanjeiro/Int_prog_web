@@ -88,17 +88,12 @@ main h3{
     color: rgb(0, 30, 255);
 }
 
-.fotobolo{
-    margin-bottom:5% ;
-    border-radius: 50px;
-    box-shadow: 1px 8px 9px red
-   
-}
 
     
 
 
 #bolo{
+    
     color: rgb(248, 10, 10);
     
 }
@@ -124,10 +119,18 @@ main h3{
 
 
 .fotolasanha{
+    margin-right: 5%;
     margin-bottom: 5%;
     border-radius: 50px;
     box-shadow: 1px 8px 9px red;
    
+   
+}
+.fotobolo{
+    margin-right: 5%;
+    margin-bottom:5% ;
+    border-radius: 50px;
+    box-shadow: 1px 8px 9px red
    
 }
 
@@ -135,6 +138,7 @@ main h3{
 .fotopudim{
     margin-bottom: 5%;
     border-radius: 50px;
+    margin-right: 5%;
     box-shadow: 1px 8px 9px red;
 }
 #frente{
