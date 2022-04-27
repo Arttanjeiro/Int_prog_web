@@ -1,6 +1,6 @@
 body{
     background-color: rgb(48, 225, 166);
-    color: rgb(193, 108, 108);
+    color: rgb(255, 255, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   
 }
@@ -49,15 +49,7 @@ h3{
 .principal a:hover{
     color: blue;
 }
- .menu a {
-    color: rgb(223, 42, 73);
-    text-decoration: none;
-    margin: 0px 10px;
-    padding: 0px 10px;
-}
- nav :hover {
-    color: rgb(194, 151, 59);
-}
+
 #chocolate{
     background-color: rgb(51, 153, 117);
     margin-bottom: 5%;
@@ -69,6 +61,7 @@ h3{
     margin-top: 5%;
 }
 #pudim{
+    color: aqua;
     background-color: goldenrod;
     margin-bottom: 5%;
     margin-top: 5%;
@@ -106,13 +99,14 @@ main h3{
     
 }
 .fotobolo{
+    margin-bottom:5% ;
     border-radius: 50px;
     box-shadow: 1px 8px 9px red
-
+   
 }
 .junto{
   
-    box-shadow: 1px 2px 15px yellow;
+    box-shadow: 1px 2px 15px rgb(255, 255, 0);
     border-radius: 30px;
    
 }
@@ -135,25 +129,23 @@ main h3{
     color: crimson;
 }
 .div{
-  
+    margin: 5%;
     padding: 0px 49px;
 }
-.bolo2{
-    box-shadow: 1px 2px 15px red;
-    border-radius: 18px;
-}
+
 #lasanha2{
     float:right;
     margin-bottom: 5%;
     margin-top: 5%;
     padding: 0px 50px ;
-    margin-left: 10%;
+    margin-left: 100%;
     color: rgb(251, 14, 14);
     
   
 
 }
 .fotolasanha{
+    margin-bottom: 5%;
     border-radius: 50px;
     box-shadow: 1px 8px 9px red;
    
@@ -168,6 +160,7 @@ main h3{
     color: rgb(14, 251, 125);
 }
 .fotopudim{
+    margin-bottom: 5%;
     border-radius: 50px;
     box-shadow: 1px 8px 9px red;
 }
