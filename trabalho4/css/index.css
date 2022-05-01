@@ -1,7 +1,7 @@
 #frente{
     margin: 1%;
     padding: 3%;
-    font-size: 222%;
+    font-size: 200%;
     color:lightseagreen;
   
 }
@@ -16,6 +16,23 @@ h3{
     color: aqua;
     font-size: 226%;
    
+}
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: stretch;
+    align-content: stretch;
+    border: solid 1px black;
+}
+nav a{
+    text-decoration: none;
+    display: flex;
+    color: red;
+
+}
+nav a:hover{
+    color: blue;
 }
 img{
    
@@ -48,3 +65,126 @@ img{
 .principal a:hover{
     color: red;
 }
+.content{
+    padding: 0px 50px;
+}
+.tudo{
+    color: white;
+    margin-bottom: 100px;
+   
+}
+.tudo2{
+    color: white;
+    margin-bottom: 100px;
+}
+.tudo3{
+    color: white;
+    margin-bottom: 100px;
+}
+h2{
+    color:rgb(140, 140, 19);
+    
+}
+.rec{
+    display: flex;
+    justify-content: center;
+    color:blueviolet;
+    font-size: 150%;
+    margin-bottom: 100px;
+   
+}
+.lista{
+    
+    background: rgb(68, 12, 12);
+    border-radius: 10px;
+    padding: 50px;
+    
+    width: 600px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+
+}
+.pre{
+    background: rgb(68, 12, 12);
+    border-radius: 10px;
+    padding: 50px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+   
+}
+.rec2{
+    display: flex;
+    justify-content: center;
+    color:blueviolet;
+    font-size: 150%;
+    margin-bottom: 100px;
+   
+}
+.lista2{
+    
+    background: rgb(68, 12, 12);
+    border-radius: 10px;
+    padding: 50px;
+    
+    width: 600px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+
+}
+.pre3{
+    background: rgb(68, 12, 12);
+    border-radius: 10px;
+    padding: 50px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+   
+}
+.rec3{
+    display: flex;
+    justify-content: center;
+    color:blueviolet;
+    font-size: 150%;
+    margin-bottom: 100px;
+   
+}
+.lista3{
+    
+    background: rgb(68, 12, 12);
+    border-radius: 10px;
+    padding: 50px;
+    
+    width: 600px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+
+}
+.pre3{
+    background: rgb(68, 12, 12);
+    border-radius: 10px;
+    padding: 50px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+   
+}
+#adicio{
+    background: rgb(68, 12, 12);
+    border-radius: 10px;
+    padding: 50px;
+    color: white;
+    width: 600px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+    margin-bottom: 100px;
+
+
+}#adicio strong{
+    color: black;
+}
+#adicio h3{
+    color: aqua;
+}
+
+
