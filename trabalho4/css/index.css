@@ -1,0 +1,50 @@
+#frente{
+    margin: 1%;
+    padding: 3%;
+    font-size: 222%;
+    color:lightseagreen;
+  
+}
+h3{
+    font-size: 100%;
+    color: darkred;
+}
+.titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    color: aqua;
+    font-size: 226%;
+   
+}
+img{
+   
+    box-shadow: 10px 8px 10px blueviolet;
+    border-radius: 50px;
+    height: 200px;
+    width: 350px;
+   
+    
+
+}
+
+
+
+.principal p{
+    color: deeppink;
+    display: flex;
+    justify-content: center;
+    
+    
+
+}
+
+.principal a{
+   display: flex;
+   justify-content: center;
+   text-decoration: none;
+   color: black;
+}
+.principal a:hover{
+    color: red;
+}
