@@ -190,7 +190,7 @@ h2{
         display: flex;
         justify-content: center;
         color: black;
-        font-size: 25px;
+        font-size: 29px;
     }
     .lista{
         background: rgb(68, 12, 12);
@@ -255,10 +255,17 @@ h2{
         justify-content: space-between;
        
     }
-   
+    #frente{
+        margin: 50px;
+        padding: 40px;
+        font-size: 25px;
+        color:rgb(32, 47, 178);
+    }
+    .foto{
+        margin-right: 100px;
+    }
     
-   
-
+ 
 }
    
   
