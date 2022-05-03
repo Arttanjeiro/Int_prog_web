@@ -14,7 +14,7 @@ h3{
     display: flex;
     justify-content: center;
     color: aqua;
-    font-size: 50px;
+   
    
 }
 nav{
@@ -22,6 +22,7 @@ nav{
     justify-content: center;
     justify-content: space-between;
     margin-top: 100px;
+    
    
     
 }
@@ -184,13 +185,21 @@ h2{
 #adicio h3{
     color: aqua;
 }
-@media (max-width: 450px){
+@media (max-width: 500px){
     .titulo{
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         display: flex;
         justify-content: center;
         color: black;
         font-size: 29px;
+    }
+    .titulo1{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        color: black;
+        font-size: px;
+
     }
     .lista{
         background: rgb(68, 12, 12);
@@ -249,12 +258,20 @@ h2{
         width: 200px;
         margin: auto;
         box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356)
-    }nav{
+    }
+    nav{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    
+      
+    }
+    nav a{
         display: flex;
         justify-content: center;
-        justify-content: space-between;
-       
+        padding-bottom: 50px;
     }
+    
     #frente{
         margin: 50px;
         padding: 40px;
