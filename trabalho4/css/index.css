@@ -14,7 +14,7 @@ h3{
     display: flex;
     justify-content: center;
     color: aqua;
-    font-size: 226%;
+    font-size: 50px;
    
 }
 nav{
@@ -23,7 +23,7 @@ nav{
     justify-content: space-between;
     align-items: stretch;
     align-content: stretch;
-    border: solid 1px black;
+    
 }
 nav a{
     text-decoration: none;
@@ -40,9 +40,7 @@ img{
     border-radius: 50px;
     height: 200px;
     width: 350px;
-   
     
-
 }
 
 
@@ -81,6 +79,7 @@ img{
     color: white;
     margin-bottom: 100px;
 }
+
 h2{
     color:rgb(140, 140, 19);
     
@@ -123,6 +122,7 @@ h2{
 }
 .lista2{
     
+    
     background: rgb(68, 12, 12);
     border-radius: 10px;
     padding: 50px;
@@ -131,6 +131,15 @@ h2{
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
 
+}
+.pre2{
+    background: rgb(68, 12, 12);
+    border-radius: 10px;
+    padding: 50px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+   
 }
 .pre3{
     background: rgb(68, 12, 12);
@@ -159,9 +168,10 @@ h2{
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
 
+
 }
 .pre3{
-    background: rgb(68, 12, 12);
+   
     border-radius: 10px;
     padding: 50px;
     width: 600px;
@@ -170,12 +180,10 @@ h2{
    
 }
 #adicio{
-    background: rgb(68, 12, 12);
-    border-radius: 10px;
+    
     padding: 50px;
     color: white;
-    width: 600px;
-    margin: auto;
+   
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
     margin-bottom: 100px;
 
@@ -186,5 +194,83 @@ h2{
 #adicio h3{
     color: aqua;
 }
+@media (max-width: 450px){
+    .titulo{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        color: black;
+        font-size: 25px;
+    }
+    .lista{
+        background: rgb(68, 12, 12);
+        border-radius: 10px;
+        padding: 50px;
+        
+        width: 200px;
+        margin: auto;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356)
+            
+       
+    }
+    .lista2{
+        background: rgb(68, 12, 12);
+        border-radius: 10px;
+        padding: 50px;
+        
+        width: 200px;
+        margin: auto;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356)
+            
+    }
+    .lista3{
+        background: rgb(68, 12, 12);
+        border-radius: 10px;
+        padding: 50px;
+        
+        width: 200px;
+        margin: auto;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356)
+            
+    }
+    .pre{
+        background: rgb(68, 12, 12);
+        border-radius: 10px;
+        padding: 50px;
+        
+        width: 200px;
+        margin: auto;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356)
+    }
+    .pre2{
+        background: rgb(68, 12, 12);
+        border-radius: 10px;
+        padding: 50px;
+        
+        width: 200px;
+        margin: auto;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356)
+    }
+    .pre3{
+        background: rgb(68, 12, 12);
+        border-radius: 10px;
+        padding: 50px;
+        
+        width: 200px;
+        margin: auto;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356)
+    }nav{
+        display: flex;
+        justify-content: center;
+        justify-content: space-between;
+        align-items: stretch;
+        align-content: stretch;
+        
+    }
+   
+    
+   
 
-
+}
+   
+  
