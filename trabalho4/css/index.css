@@ -171,6 +171,14 @@ h2{
    
 }
 #adicio{
+     
+    background: rgb(68, 12, 12);
+    border-radius: 10px;
+    padding: 50px;
+    
+    width: 600px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
     
     padding: 50px;
     color: white;
@@ -198,9 +206,10 @@ h2{
         display: flex;
         justify-content: center;
         color: black;
-        font-size: px;
+        font-size: 36px;
 
     }
+    
     .lista{
         background: rgb(68, 12, 12);
         border-radius: 10px;
@@ -259,6 +268,22 @@ h2{
         margin: auto;
         box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356)
     }
+    #adicio{
+        
+            background: rgb(68, 12, 12);
+            border-radius: 10px;
+            padding: 50px;
+            
+            width: 200px;
+            margin: auto;
+            box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+            margin-bottom: 100px;    
+
+    }
+    #adicio h3{
+        font-size: 14px;
+       
+    }
     nav{
         display: flex;
         flex-direction: column;
@@ -275,13 +300,28 @@ h2{
     #frente{
         margin: 50px;
         padding: 40px;
-        font-size: 25px;
-        color:rgb(32, 47, 178);
+        color: blue;
+        
+    }
+    #frente h3{
+        font-size: 19px;
+    }
+    #frente p{
+        
+        font-size: 17px;
+        padding-bottom: 90px;
+      
     }
     .foto{
         margin-right: 100px;
     }
-    
+    .principal p{
+        color: deeppink;
+        display: flex;
+        justify-content: center;
+        
+    }
+  
  
 }
    
