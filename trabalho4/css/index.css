@@ -21,14 +21,15 @@ nav{
     display: flex;
     justify-content: center;
     justify-content: space-between;
-    align-items: stretch;
-    align-content: stretch;
+    margin-top: 100px;
+   
     
 }
 nav a{
     text-decoration: none;
     display: flex;
     color: red;
+    
 
 }
 nav a:hover{
@@ -50,19 +51,8 @@ img{
     display: flex;
     justify-content: center;
     
-    
-
 }
 
-.principal a{
-   display: flex;
-   justify-content: center;
-   text-decoration: none;
-   color: black;
-}
-.principal a:hover{
-    color: red;
-}
 .content{
     padding: 0px 50px;
 }
@@ -263,9 +253,7 @@ h2{
         display: flex;
         justify-content: center;
         justify-content: space-between;
-        align-items: stretch;
-        align-content: stretch;
-        
+       
     }
    
     
